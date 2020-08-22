@@ -1,5 +1,5 @@
-<h1 align="center">Hola, Soy Gabriel Ramirez</h1>
-<h3 align="center">Aficionado por el desarrollo frontend y las tecnológicas en general</h3>
+<h1 align="center">Hola,Mi nombre es Gabriel Ramirez</h1>
+<h3 align="center">Soy aficionado por el desarrollo frontend y las tecnológicas en general</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-ramirez" alt="gabriel-ramirez" /> </p>
 
